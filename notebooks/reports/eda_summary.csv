@@ -1,0 +1,9 @@
+Metric,Value
+Rows,378661
+Columns,15
+Memory Usage (MB),194.51
+Duplicate Rows,0
+Target Variable,state
+Target Classes,6
+Numerical Features,7
+Categorical Features,8

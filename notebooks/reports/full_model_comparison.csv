@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Train Time (s),Inference Time (s)
+LightGBM,0.6841,0.6315,0.5231,0.5722,0.7398,2.256,0.2136
+XGBoost,0.6834,0.6342,0.5107,0.5658,0.7397,1.847,0.0824
+CatBoost,0.6788,0.631,0.4933,0.5537,0.7336,3.678,0.0468
+Decision Tree,0.644,0.5489,0.6644,0.6012,0.7024,,
+Logistic Regression,0.633,0.5371,0.6614,0.5928,0.686,,
+Random Forest,0.6473,0.5717,0.5051,0.5364,0.6848,,

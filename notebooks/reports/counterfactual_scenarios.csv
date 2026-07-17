@@ -1,0 +1,7 @@
+Scenario,Probability of Success,Change,Scenario_Group
+Current,0.653012597374259,"Goal: $8,000 -> $4,000",Lower Goal
+What-if,0.73756198710573,"Goal: $8,000 -> $4,000",Lower Goal
+Current,0.653012597374259,Duration: 37d -> 57d,Longer Duration
+What-if,0.3895381022735732,Duration: 37d -> 57d,Longer Duration
+Current,0.653012597374259,Category: Games -> Dance,Best Category
+What-if,0.8372857962811384,Category: Games -> Dance,Best Category

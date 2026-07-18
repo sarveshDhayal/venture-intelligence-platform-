@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression (tabular only),0.633,0.5371,0.6614,0.5928,0.686
+Logistic Regression (TF-IDF + tabular fusion),0.6656,0.5732,0.6738,0.6194,0.7292
